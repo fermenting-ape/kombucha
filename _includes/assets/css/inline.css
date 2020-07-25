@@ -1,7 +1,25 @@
+@font-face {
+	font-family: "Averia";
+	src: url(/static/fonts/Averia-Regular.ttf) format("truetype");
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Averia";
+	src: url(/static/fonts/Averia-Bold.ttf) format("truetype");
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "AveriaSans";
+	src: url(/static/fonts/AveriaSans-Regular.ttf) format("truetype");
+	font-weight: 400;
+}
+
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: #5086e6;
+	--secondary: #ffffff;
+	--background: #ffffff;
 }
 
 *, *:before, *:after {
@@ -12,7 +30,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: "Averia";
 }
 
 body {
@@ -24,6 +42,7 @@ body {
 
 main {
 	max-width: 37.5em;
+	margin: 0 auto;
 }
 
 p,
@@ -44,6 +63,10 @@ a[href]:not(:hover) {
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+header {
+	font-weight: 600;
 }
 
 header,
@@ -131,6 +154,7 @@ main > section > article > * {
 /* Post Tags */
 a[rel="tag"],
 a[rel="tag"]:visited {
+	font-family: "AveriaSans";
 	display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
@@ -174,7 +198,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: "Averia";
 }
 
 input,
