@@ -1,14 +1,22 @@
 ---
-title: This is my first post
-date: 2015-01-01T00:00:00.000Z
-author: John Appleseed
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: 24 July 2020
+date: 2020-08-14T03:33:16.897Z
+author: Hans Taylor
+summary: First kombucha culture concentrate (KCC) batch begins.
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - kombucha
+  - research
+  - record
+  - development
+  - august 2020
 ---
+I started our first kombucha culture concentrate on June 24 (2020), see KCC 0001 in batch measurements for details. We ordered a second 20 quart (5 gallon) stainless steel vessel with valve port and temperature port with probe from Concord Kettles yesterday. These two 20 quart kettles will serve as our KCC fermentation vessels after the first batch, KCC 0001, is finished. Practically, these vessels will have a 16 L (~16 quart) capacity of kombucha culture concentrate to leave room for aeration foam, stirring, and measurement error.
 
-# Hello
-## smaller
+16 L, Vessel A - Kombucha Culture Concentrate (20 quart stainless steel vessel)
+
+16 L, Vessel B - Kombucha Culture Concentrate (20 quart stainless steel vessel)
+
+16 L, Vessel C - Kombucha Fermentation Vessel (64 quart stainless steel vessel)
+
+
+ With this setup, we will have a 16 quart or four gallon production capacity of kombucha per week. The change to quarts/gallons is to reflect the minor decrease in final production from measurement and taste sampling. This is an approximation. At $4 per bottle and $2 per bottle cost to manufacture, I estimate this capacity will provide $128 per week in sales revenue and $64 per week in pre-tax profit.
