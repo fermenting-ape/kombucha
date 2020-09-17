@@ -20,10 +20,6 @@ tags:
 | Header    | Title       |
 | Paragraph | Text        |
 
-
-
-
-
 *{\rtf1\ansi\deff0\
 \trowd\
 \clbrdrt\brdrs\clbrdrl\brdrs\clbrdrb\brdrs\clbrdrr\brdrs\
@@ -38,7 +34,15 @@ cell 3\intbl\cell\
 \row\
 }*
 
-
+```html
+<td>Hi, I'm your first cell.</td>
+<tr>
+  <td>Hi, I'm your first cell.</td>
+  <td>I'm your second cell.</td>
+  <td>I'm your third cell.</td>
+  <td>I'm your fourth cell.</td>
+</tr>
+```
 
 I started our first kombucha culture concentrate on June 24 (2020), see KCC 0001 in batch measurements for details. We ordered a second 20 quart (5 gallon) stainless steel vessel with valve port and temperature port with probe from Concord Kettles yesterday. These two 20 quart kettles will serve as our KCC fermentation vessels after the first batch, KCC 0001, is finished. Practically, these vessels will have a 16 L (~16 quart) capacity of kombucha culture concentrate to leave room for aeration foam, stirring, and measurement error.
 
